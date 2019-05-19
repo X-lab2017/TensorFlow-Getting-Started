@@ -1,0 +1,18 @@
+# 导入TensorFlow
+要开始使用Python shell，请运行以下命令：
+
+```
+python
+```
+
+您可以使用quit（）离开此环境。
+
+要开始使用TensorFlow，您应首先导入它以使Python能够访问它：
+
+```
+import tensorflow as tf
+```
+
+在之后的代码中如果您想使用TensorFlow的类、方法或符号，就应该引用tf变量。
+
+TensorFlow的核心概念是张量。 张量是任意数量维度的数组。 这种数据形状对于许多神经网络的计算非常方便。 我们将在后面的章节中看到这些例子。
