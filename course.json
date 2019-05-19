@@ -12,11 +12,11 @@
       "steps":[
         {
           "title": "Importing TensorFlow",
-          "text": "scenario/1.1-Importing-TensorFlow.md",
+          "text": "scenario/1.1-Importing-TensorFlow.md"
         },
         {
-           "title": "Computational Graph",
-           "text": "scenario/1.2-Computational-Graph.md"
+          "title": "Computational Graph",
+          "text": "scenario/1.2-Computational-Graph.md"
         },
         {
           "title": "Session",
@@ -24,15 +24,15 @@
         },
         {
           "title": "Placeholders",
-          "text": "scenario/1.4-Placeholders.md",
+          "text": "scenario/1.4-Placeholders.md"
         },
         {
           "title": "Variables",
-          "text": "scenario/1.5-Variables.md",
+          "text": "scenario/1.5-Variables.md"
         },
         {
           "title": "Working with Variables",
-          "text": "scenario/1.6-Working-with-Variables.md",
+          "text": "scenario/1.6-Working-with-Variables.md"
         }
       ]
     },
@@ -43,7 +43,7 @@
       "steps":[
         {
           "title": "Loading MNIST dataset",
-          "text": "scenario/2.1-Loading-MNIST-dataset.md",
+          "text": "scenario/2.1-Loading-MNIST-dataset.md"
         },
         {
           "title": "Training data",
@@ -51,7 +51,7 @@
         },
         {
           "title": "Network variavles",
-          "text": "scenario/2.3-Network-variavles.md",
+          "text": "scenario/2.3-Network-variavles.md"
         },
         {
           "title": "loss function optimisation",
@@ -63,7 +63,7 @@
         },
         {
           "title": "Model evaluation",
-          "text": "scenario/2.6-Model-evaluation.md",
+          "text": "scenario/2.6-Model-evaluation.md"
         }
       ]
     },
@@ -71,47 +71,47 @@
       "title": "TensorFlow MNIST for beginners",
       "environment": "registry.cn-shanghai.aliyuncs.com/kfcoding/kfcoding-envs:git",
       "description": "学习如何使用TensorFlow创建深度卷积网络",
-       "steps":[
-         {
-           "title": "Training process",
-           "text": "scenario/3.1-Training-process.md",
-         },
-         {
-           "title": "hidden layer",
-           "text": "scenario/3.2-hidden-layer.md"
-         },
-         {
-           "title": "convolutional layer",
-           "text": "scenario/3.3-convolutional-layer.md"
-         },
-         {
-           "title": "DropOut",
-           "text": "scenario/3.4-DropOut.md"
-         }
-       ]
+      "steps":[
+        {
+          "title": "Training process",
+          "text": "scenario/3.1-Training-process.md"
+        },
+        {
+          "title": "hidden layer",
+          "text": "scenario/3.2-hidden-layer.md"
+        },
+        {
+          "title": "convolutional layer",
+          "text": "scenario/3.3-convolutional-layer.md"
+        },
+        {
+          "title": "DropOut",
+          "text": "scenario/3.4-DropOut.md"
+        }
+      ]
     },
     {
       "title": "TensorFlow Estimators for MNIST dataset",
       "environment": "registry.cn-shanghai.aliyuncs.com/kfcoding/kfcoding-envs:git",
       "description": "介绍机器学习过程中的高水平tf.contrib.learn API",
-       "steps":[
-         {
-            "title": "Estimators",
-            "text": "scenario/4.1-Estimators.md",
-         },
-         {
-           "title": "Dataset",
-           "text": "scenario/4.2-Dataset.md",
-         },
-         {
-           "title": "Model",
-           "text": "scenario/4.3-Model.md"
-         },
-         {
-           "title": "making-predictions",
-           "text": "scenario/4.4-making-predictions.md"
-         }
-       ]
+      "steps":[
+        {
+          "title": "Estimators",
+          "text": "scenario/4.1-Estimators.md"
+        },
+        {
+          "title": "Dataset",
+          "text": "scenario/4.2-Dataset.md"
+        },
+        {
+          "title": "Model",
+          "text": "scenario/4.3-Model.md"
+        },
+        {
+          "title": "making-predictions",
+          "text": "scenario/4.4-making-predictions.md"
+        }
+      ]
     }
   ]
 }
