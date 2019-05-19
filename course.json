@@ -16,7 +16,7 @@
           "preload": "scripts/preload.js",
         },
         {
-           "title": Computational Graph",
+           "title": "Computational Graph",
            "text": "scenario/1.2-Computational-Graph.md"
         },
         {
@@ -114,7 +114,7 @@
          },
          {
           "title": "Complete",
-          "text": "scenario/7.5-complete.md",
+          "text": "scenario/4.5-complete.md",
           "preload": "scripts/complete.js"
         }
        ]
