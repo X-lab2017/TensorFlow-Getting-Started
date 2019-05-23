@@ -110,6 +110,11 @@
         {
           "title": "making-predictions",
           "text": "scenario/4.4-making-predictions.md"
+        },
+        {
+          "title": "Complete",
+          "text": "scenario/4.5-complete.md",
+          "preload": "scripts/complete.js"
         }
       ]
     }
