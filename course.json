@@ -7,7 +7,7 @@
   "scenarios":[
     {
       "title": "Tensorflow Core",
-      "environment": "registry.cn-shanghai.aliyuncs.com/kfcoding/kfcoding-eci-envs:tensorflow2",
+      "environment": "registry.cn-shanghai.aliyuncs.com/kfcoding/kfcoding-envs:tensorflow",
       "description": "学会如何使用Tensorflow Core的概念",
       "steps":[
         {
@@ -38,7 +38,7 @@
     },
     {
       "title": "TensorFlow MNIST for beginners",
-      "environment": "registry.cn-shanghai.aliyuncs.com/kfcoding/kfcoding-eci-envs:tensorflow2",
+      "environment": "registry.cn-shanghai.aliyuncs.com/kfcoding/kfcoding-envs:tensorflow",
       "description": "学习使用TensorFlow进行分类",
       "steps":[
         {
@@ -69,7 +69,7 @@
     },
     {
       "title": "TensorFlow MNIST for beginners",
-      "environment": "registry.cn-shanghai.aliyuncs.com/kfcoding/kfcoding-eci-envs:tensorflow2",
+      "environment": "registry.cn-shanghai.aliyuncs.com/kfcoding/kfcoding-envs:tensorflow",
       "description": "学习如何使用TensorFlow创建深度卷积网络",
       "steps":[
         {
@@ -92,7 +92,7 @@
     },
     {
       "title": "TensorFlow Estimators for MNIST dataset",
-      "environment": "registry.cn-shanghai.aliyuncs.com/kfcoding/kfcoding-eci-envs:tensorflow2",
+      "environment": "registry.cn-shanghai.aliyuncs.com/kfcoding/kfcoding-envs:tensorflow",
       "description": "介绍机器学习过程中的高水平tf.contrib.learn API",
       "steps":[
         {
